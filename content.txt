@@ -1,0 +1,1416 @@
+Job Msg Format Section
+Thursday, February 23, 2023
+10:38 AM
+
+Contact email:
+McGraw Hill: 
+Please contact us if you need assistance with the application process: talentacquisition@mheducation.com
+
+Cold Email/Msg Format:
+
+Hello,
+
+My name is Aniket Wattamwar currently pursuing my Masters in Computer Science from California State University, Fullerton. I am looking for summer’23 internship in software engineering.
+
+My skills are in Python and Full stack Development. I have completed projects in AWS, flask, Django with MySQL Database. I am passionate about learning new technologies and solving problems.
+
+I wish to apply for the software engineering intern position at your organization to enhance my skills and contribute to the mission and vision.
+
+Attaching my resume for your reference.
+You can have a look at my portfolio as well:
+https://aniketwattamwar.netlify.app/
+
+Thanks,
+Aniket
+
+——————————————————
+
+Hi,
+
+
+Hope you are doing well.
+I am pursuing my Masters from CSU,Fullerton in CS & came across an opening at _______ for software engineer intern and I was wondering if you would be open to referring me for the same.
+My portfolio & resume: https://aniketwattamwar.netlify.app/
+
+Thanks,
+Aniket
+
+———————————
+
+Hi 
+
+I am pursuing my Masters from California State University, Fullerton in CS. 
+and wish to connect with you.
+
+Thanks,
+Aniket
+Portfolio: https://aniketwattamwar.netlify.app/
+
+__________
+
+“Hey John. Just noticed that we have a mutual connection in Matthew. I love what you’re doing at XYZ Company and would love to connect.”
+
+
+Hello,
+I came across your profile and noticed we share many mutual connections. Your area of expertise in ML aligns with my interest and would love to connect.
+
+Thanks,
+Aniket
+Portfolio: https://aniketwattamwar.netlify.app/
+
+__________
+
+Hi ,	
+
+I am pursuing my Masters from California State University, Fullerton in CS. I am looking for Summer23 internships in software development and wish to connect with you.
+
+Please find my resume and portfolio: https://aniketwattamwar.netlify.app/
+
+Thanks,
+Aniket
+
+___________________
+
+Hi,	
+
+I am pursuing my Masters from California State University, Fullerton in CS. I am looking for Summer23 internships in software development and wish to connect with you.
+
+Thanks,
+Aniket
+Portfolio: https://aniketwattamwar.netlify.app/
+
+
+_____________
+
+Hi,
+Hope you are doing well.
+I am pursuing my Masters from CSU, Fullerton in CS & came across an opening at _____ for a SWE intern and I was wondering if you would be open to referring me for the same.
+If you would accept my request I can send the job link and my resume.
+Thanks,
+Aniket
+
+____________
+
+I love solving problems with technology and programming. With the evolving tech industry I wish to work on different technologies and solve customer problems. My skills are in full stack development and hence wish to apply for Gusto
+
+___________
+
+Hello Amita,
+
+I hope you are doing well.
+
+I am a Computer Science graduate student at California State University, Fullerton.
+I wish to apply for the Summer Internship at Amazon in the field of Machine Learning. I enjoy working in Machine learning and wish to enhance my skills in the same domain.
+
+I believe an internship opportunity is the best way to grow. I always try my best in learning new things in Machine learning by doing personal projects and implementing new concepts. 
+
+I have used Python, AWS ML services, keras, and worked in ML deployment for 2 years in my previous role. Since you are hiring for your team I wanted to know if you are open to considering an intern as part of your team.
+
+You can check my GitHub and YouTube as well:
+https://github.com/aniketwattamwar
+https://www.youtube.com/c/HackerShrine
+
+I am very curious and innovative and love to try new things which I think is the driving force in the field of ML.
+
+Awaiting positive response.
+
+Thanks,
+Aniket
+
+
+_____________________
+
+
+Hello Team,
+
+Merry Christmas in advance!!!
+
+I am a Computer Science graduate student pursuing my Masters from California State University, Fullerton. I have used Streamlit and absolutely love it. Kudos for creating an amazing product.
+
+I am reaching out as I am looking for summer internship in 2023 in software development and wanted to know if there are any openings at Streamlit.
+
+My skills are in full stack development and machine learning in python, flask, Django and AWS. I enjoy solving problems and do impactful work.
+My Github: https://github.com/aniketwattamwar
+Portfolio: https://aniketwattamwar.netlify.app/
+
+I am quite curious how the streamlit works and would enjoy being part of the team in developing Streamlit. As a developer, I have used Streamlit and made some videos on it as well.
+Link to the videos: https://www.youtube.com/playlist?list=PL_drzcX_ki743X4FE7HIti05TLIdbirAn
+
+My in progress project using Streamlit: https://aniketwattamwar-genie-main-gj1iyk.streamlit.app/
+
+
+Thanks,
+Aniket
+
+————————————
+
+Hello Barry,
+
+I hope you are doing well.
+
+My name is Aniket Wattamwar currently pursuing my Masters in Computer Science from California State University, Fullerton. I am looking for a summer’23 internship in software engineering.
+
+My skills are in Data Structures and algorithms, System Design along with Python and Full stack Development. I have completed projects in AWS, flask, and Django with MySQL Database. I am passionate about learning new technologies and solving problems.
+
+I wish to apply for the software engineering intern position at AWS.
+
+Attaching my resume for your reference.
+You can have a look at my portfolio as well:
+https://aniketwattamwar.netlify.app/
+
+Thanks,
+Aniket
+
+——-
+
+Crowdstrike SWE:
+I enjoy solving problems using technology and the job description aligns with my skills and interests. My core skills are in Python and full-stack development with AWS as cloud technology. As a CS graduate student, I have also taken courses like Software Design and architecture, web-backend, and software standards and requirements allowing me to expand my knowledge in software development like distributed systems, cross-platform development using REST API, and software processes like Agile and more.
+I believe this opportunity would be a great learning experience and I am confident I would be able to perform above and beyond.
+
+python, java, mysql, aws, nosql, java, c++, jenkins, appdynamics, splunk, linux, html/css, react, django, flask, aws RDS, aws lambda, aws elastic beanstalk, aws ec2
+
+
+Crowdstrike ML:
+
+I enjoy solving problems using technology and the job description aligns with my skills and interest. My core skills are in python and Machine learning development along with AWS as cloud technology. As a CS graduate student I have also taken courses like Artificial Neural Networks, Artificial Intelligence, web-backend allowing me to expand my knowledge in the Machine learning domain.
+I can work in Python tensorflow/keras and learning PyTorch for deep learning. My industry experience has been in MLOps too where our team used to deploy XGBoost models on more than 100 servers.
+I believe this opportunity would be a great learning experience and I am confident I would be able to perform above and beyond.
+
+It's not only software but a combination of software, hardware, and mechanical fields as well. So, I own a 3d printer(Ender 3). I am just amazed at its possibilities. With unlimited resources, the first thing I would do is fasten the printing process and fix all the issues that it currently has.
+The thing that I would personally keep on doing would be 3d printed prosthetics for disabled people. I see a lot of potential in that area. Another would be 3D-printed car parts/accessories(Japan already started this in E-Vehicles). There are many many use cases for this. 3D printed houses/homes as well(started in Kerala, India).
+
+Why would I do this? Well, it drastically reduces a lot of effort(making plastic/metal molds) and significantly increases the customization power of making anything personalized or generic as well. 
+
+Since I already have one I never thought of making this for business/commercial use. I just enjoy that part of technology and I print things for my house. I got to learn mechanical 3d modeling and design, some hardware stuff on the printer and then coding some stuff(gcode files). Automated software can be made that generate .stl file directly to print.
+
+from:	Ezell, Nikolaus <nikolaus.ezell@citi.com>
+to:	Shreyas Prashant Kulkarni <sk385@buffalo.edu>
+cc:	"Muniz, Yarali" <yarali.muniz@citi.com>
+
+CITI bank
+
+
+to:	Alysha-Beth Rodriguez <AlyshaBeth.Rodriguez1@aexp.com>
+cc:	Shelby Tucker <Shelby.Tucker@aexp.com>
+
+Amex
+
+"Smith, Deb" <Deb.Smith@bestbuy.com>,
+Tisha.Schmidt@bestbuy.com
+
+<Lindsey.Henderson@cvshealth.com>
+
+
+from:	Nicole Palisoc <nbaarde@yelp.com>
+to:	sk385@buffalo.edu
+cc:	coles@yelp.com
+
+"Wood, Daniel [C]" <wodadan@amazon.com>
+
+Gabrielle Tocchini <gtocchini@adobe.com>
+to:	Shreyas Prashant Kulkarni <sk385@buffalo.edu>
+cc:	Meghan Milani <milani@adobe.com>
+
+Marrero, Elizabeth <elizabeth.marrero@delta.com>
+
+Show, Sara <Sara.Show@dell.com>
+to:	"sk385@buffalo.edu" <sk385@buffalo.edu>
+cc:	"Torres, Iliana - Dell Team" <Iliana.Torres@dellteam.com>
+
+Briana.Zerfass@cvshealth.com
+
+Joon Seung Han <joonseunghan@microsoft.com>
+
+"Pichardo, Katrina (ETW - FLEX)" <Katrina.Pichardo@nike.com>
+
+Felecia Ellis (CW) <fellis@paypal.com>
+
+Adams, Garrett <Garrett.Adams@nike.com>
+
+Steven Fritz <steven.fritz@nielsen.com>
+
+Spencer Gamble <sgamble@adobe.com>
+
+mohammed.ahmed3@synechron.com
+
+Linkedin Post LAHacks:
+
+#Hackathon2 #LAHacks2023
+I am excited to share that I got the chance to attend the UCLA's LAHacks Hackathon. It was a 36-hour hackathon with lots of learning, developing, fun and networking. 
+
+I decided to participate individually for this Hackathon and developed a webapp called Connect - Bridging the Gap in solving the food wastage problem. The webapp connects Restaurants, Hotels to nearby NGOs to distrbute the food to the needy people/ food banks and avoid wastage. Check out the working of the app here: Connect - Bridging the gap
+
+I met some amazing developers during the hackathon and it was inspiring to see the projects they developed.
+
+#LAHacks2023 #UCLA #Hackathon
+
+COMCAST:
+aniket.wattamwar@csu.fullerton.edu
+3'v%VE<X!;^5wGUW
+
+Online internship not allowed from this month
+Tht is why I need location address in the offer letter
+
+Hi Ramon,
+I am participating in the WOW Dao Hackathon and would like to connect with you. I am a graduate student in Computer Science and will be working on the Generative AI use case.
+
+Thanks,
+Aniket
+
+I am glad to be part of the AWS Community Builder again for the year 2023.
+Thank you @jason. AWS Community Builder program is a great way to connect with people and grow your knowledge through collaboration, exclusive events and learning through mentorship.
+
+#AWS #cloud #awscommunitybuilder 
+
+Hi!  I'm Aniket and I came across the Software Development position at Taco Bell. It seems like a great fit for my experience and interests. Would you be open to connecting to discuss the role further? Thanks in advance for your time - looking forward to hear from you soon!
+
+I am a CS graduate student at CSUF. I see open positions at blackberry for a software engineer fall term. I wanted to know if your team is hiring a candidate? My skills in Python, Jenkins, jira, and automation match the job description.  I would greatly appreciate an interview opportunity.
+
+I have worked as a software engineer at HSBC and now working as Research Assistant under Professor. Sampson Akwafuo in Computer Science Department at CSU Fullerton developing Real-time dashboard and disease outbreak prediction. One of my papers has been published on Real-time Surveillance on MonkeyPox in West Africa in IEEE GHTC conference as well.
+
+From <https://careers.twosigma.com/careers/ApplicationRegister?jobId=11997&amp;source=Conference&amp;tags=tapia23+cold+outreach> 
+
+I was the Secretary of the IEEE student branch and got the Student Volunteer of the Year Award for my contribution too.
+
+From <https://careers.twosigma.com/careers/ApplicationRegister?jobId=11997&amp;source=Conference&amp;tags=tapia23+cold+outreach> 
+
+I am part of the AWS Community Builders Program for developing unique content on full stack and machine learning in AWS by making YouTube videos and writing technical blogs.
+Check it out here: https://www.youtube.com/c/HackerShrine
+
+From <https://careers.twosigma.com/careers/ApplicationRegister?jobId=11997&amp;source=Conference&amp;tags=tapia23+cold+outreach> 
+
+I have worked as full-stack engineer and an ML engineer. My skills in Data Structures and algorithms, System Design along with Python and Full stack Development. I have completed projects in AWS, flask, and Django with MySQL Database. I am passionate about learning new technologies and solving problems.  I believe with these skills, I can contribute to the mission and core values of PNC.
+Check out some of my work: https://www.youtube.com/c/HackerShrine
+
+I enjoy working on use cases solving real world problems and creating a technological solution.
+I have attended hackathons like Treehacks by Stanford and LAHacks hosted by UCLA.
+My core skills are in python and full stack development with AWS as cloud technology. Working of potential ideas is something excites me a lot and a Hackathon is a great platform to make those ideas into working prototypes/solutions.
+Apart from that, I love meeting new people and networking with them at Hackathons to discuss on different innovative things. I still keep in touch with people I met at previous hackathons.
+I am interested in building a solution that can solve a problem and have the potential to scale as well. Working with a team during the hackathon will allow us to develop the solution as well.
+
+algorithm stable_matching is
+    Initialize m ∈ M and w ∈ W to free
+    while ∃ free man m who has a woman w to propose to do
+        w := first woman on m's list to whom m has not yet proposed
+        if ∃ some pair (m', w) then
+            if w prefers m to m' then
+                m' becomes free
+                (m, w) become engaged
+            end if
+        else
+            (m, w) become engaged
+        end if
+    repeat
+
+From <https://en.wikipedia.org/wiki/Gale%E2%80%93Shapley_algorithm#Solution> 
+
+I have worked on multiple projects on full stack development with ML models as well. Some of the projects I worked on are 
+AWS with Python to create an Ecommerce web app
+AutoML tool to develop models without writing any code
+FastAPI with AWS to create a telecom web app
+Web application to predict Incidents using clustering and NLP
+
+I have applied to the McMaster-Carr Software Development Role through RippleMatch. Is it possible to know the status of the application or know if the hiring is complete? I am a CS graduate student from California looking for a full time role
+
+
+
+I am working on a AutoML project called Genie. It allows the user to upload data and can choose different pre processing techniques with respect to the data. In the end, the user uploads test data as well and chooses the type of algorithm for training. User can also download the model and the prediction file as well. All this can be done without writing any code.
+The web app is made with Streamlit and other machine learning libraries and currently supports Regression and Classification type of problems. 
+I will be working on the NLP part soon. 
+
+ML 
+
+I have worked at different organizations and my industry experience was in ML development with OCR and MLOps for HSBC banking. We deployed ML algorithms like XGBoost, AdaBoost with SAS Viya software onto the HSBC infrastructure. I was responsible for the integration and smooth process of model deployment.
+My recent experience in an internship was to develop ML models for predicting the JIRA, ServiceNow tickets and its behaviour for better resource allocation within the organization. Both these experiences helped me gained a lot of knowledge and hands on experience in tackling complex challenges.
+
+
+Best Buy Email:
+
+Dear Tisha,
+ 
+I hope this email finds you well. My name is Aniket Wattamwar, a Computer Science Graduate student from California State University, Fullerton.
+ 
+I am reaching out to you with the intention of knowing more about the hiring process at Best Buy. I was looking for software engineer roles and couldn’t find any on the careers page. I was wondering if Best Buy is planning to hire graduate students any time soon as I would be really interested to apply for the role.
+ 
+A bit about me: I recently interned at Lumen Technologies as a software developer in Full stack development and currently working as a Research Assistant with my University Professor. I also do have 2 years of industry experience in software development.
+ 
+Skills: Frontend - React, Backend - Flask/FastAPI/Django, Cloud - AWS, Databases - AWS, MongoDB, MySQL
+ 
+Do have a look at my resume[attached], it showcases some of my academic achievements and contribution to the developer community.
+ 
+Thank you.
+
+Cover Letter
+
+I hope this email finds you well. I am writing to express my sincere interest in the Software Development position at BauFreund.eu, as advertised in your recent job offering.
+My name is Aniket Wattamwar, and I come to you with a strong foundation in software development and a burning passion for creating innovative solutions. With a Master's Degree in Computer Science, I have not only acquired the knowledge but have also honed my skills over the course of two years as a software engineer. During this time, I have had the privilege of working on diverse projects, enabling me to develop a profound understanding of the industry and its demands.
+My journey in the field of software development has not just been about writing lines of code but about crafting solutions that solve real-world problems. I am particularly drawn to BauFreund.eu because of its reputation for innovation, social media marketing, and recruiting expertise. I am eager to become a part of your dynamic team and contribute my expertise to your ongoing success.
+What sets me apart is not only my technical proficiency but also my ability to think creatively and adapt to new challenges. I thrive in collaborative environments, and I am always eager to learn and grow. I am confident that my passion for software development, combined with my educational background and hands-on experience, will make me a valuable asset to BauFreund.eu.
+I would welcome the opportunity to discuss how my skills and enthusiasm align with your company's goals. I am excited about the possibility of contributing to the continued growth and success of BauFreund.eu.
+Thank you for considering my application. I have attached my resume for your reference, and I look forward to the possibility of an interview to further discuss how I can contribute to your team. Please feel free to contact me at [Your Email Address] or [Your Phone Number] at your convenience.
+Sincerely,
+Aniket Wattamwar
+
+From <https://chat.openai.com/c/0d402bd1-588e-43ad-a1da-9dd385fce294> 
+
+HPC Performance Engineer Graduate (1163457)
+
+MLH!
+Why do you want to become an MLH fellow?
+
+I have always been fond of technology and programming since my undergrad years. My interest in programming grew because our university made us do practical projects and publish the results in research publications. So every semester we had to make different projects and when I look back now it seem to be the reason for my current passion for technology.
+Fast forward to my final year I got hired by HSBC and worked as a software engineer there in Machine Learning, MLOps and then in Full stack development for more than 2 years crafting solutions to real-life problems. After that I decided to come to the US for my masters(Fall22) in Computer Science from California State University, Fullerton.
+
+In the last 1.5 years of my stay here in the US, I have attended 3 hackathons Treehacks Stanford, LAHacks UCLA and CalHacks UCB. I just enjoy the energy and making connections and completing a project at a Hackathon. I grabbed an internship offer during summer at Lumen Technologies and worked in Full stack ML development. 
+This really gave me the push and made me realize that I want to continue working in software technology. I gained tremendous advanced knowledge while studying Masters in all aspects of software development. I continue to work on personal projects as I learn new concepts. I work as an Research Assistant in Computational Epidemiology with a Professor at the University. I am also a junior admin at the Mathematics department handling 2 High Performance Super Computers at my University. I also got a chance to present my research work at the STARS Computing conference in Dallas, Texas.
+I am so grateful for these opportunities and consider these my achievements and that hard work pays off sooner or later.
+ 
+For me one should keep on adapting to the world of technology and the best example is how LLMs captured the market and now as technology enthusiasts we need to learn it and apply in real life.
+
+In my last semester of Masters, I think this fellowship would be great opportunity to learn something new and contribute to open-source. My experience and learnings will definitely help me contribute effectively.
+
+
+
+The MLH Fellowship is a diverse community that welcomes Fellows from a wide range of experiences and backgrounds. What perspective or experience will you bring to the fellowship to strengthen our community?
+
+I have learned a lot through the software community. During the covid pandemic, I decided that it's time to give back to the community in whatever way possible. That’s when, I decided to start a YouTube channel - HackerShrine and make videos for experienced software developers. 
+If you check my content I try to make videos on full stack development covering a range of technology in one use case, eg FastAPI with React and AWS DynamoDB. This covers three technologies and the tutorial is on a real life use case. I always keep all of my code open source so anyone can read, learn and further contribute to it. My YouTube channel helped me learn video editing, designing, SEO and Optimization too. 
+I answer few questions on stack overflow or discussions page too(of Streamlit). I have a blogging website hackershrine.com where I post articles on Interview Experiences to help anyone trying to get a software engineer job.
+I am also a writer on Towards Data Science, Analytics Vidhya on Medium. Since I have made considerable amount of YouTube content on AWS, Python I was selected for the AWS Community Builder Program for 2 years now.  I am also a teaching associate for frontend technologies course in my University teaching undergraduate students.
+
+ These are some of the things that I have experience with which would add value to MLH community. I will share my experience in YouTube, Marketing, Software Development, Writing blogs and more to everyone and to the MLH community.
+
+CVS Health Email:
+
+Dear Lindsey,
+ 
+I hope this email finds you well. My name is Aniket Wattamwar, a Computer Science graduate at California State University, Fullerton.
+ 
+Yesterday, a job was posted on the CVS Health career page which caught my attention. These are the details of the job role:
+Job ID: R0046971
+Category: Data and Analytics
+Location: Chicago, IL
+Job Link: Data Scientist - Finance Analytics
+ 
+After looking at the job description, I can confidently say that it matches my profile, skills and previous experience. Interestingly, I also worked for a bank for 2 years in ML and MLOps domain developing and deploying ML models with Python, something that CVS is looking for.
+ 
+I am attaching my resume for your consideration, it highlights my skills, experiences and ML projects along with my contribution to developer community on StackOverflow and YouTube.
+ 
+I would love to talk more about the role if we can connect on call anytime as per your convenience.
+ 
+Thank you.
+
+I am applying for the Purpura Internship Scholarship as I interned during the summer for 10 weeks at Lumen Technologies as a software developer. I worked on 3 different projects enhancing my skills in full stack development and machine learning. I had courses like web backend and artificial neural networks during my Masters which really helped in the internship. I worked on multiple technologies some of which were very new and some familiar. 
+
+I am currently pursuing my Masters in Computer Science here at CSU Fullerton. I am a Research Assistant at the CEDDI Lab under Professor Sampson Akwafuo developing real time dashboard and monitoring tool for Lassa Fever. The research was accepted in the STARS Computing Poster conference held at Dallas, Texas in 2023 where I got to present the findings and work done. I was a contributor to another research paper named -  Real-time Hybrid Dashboard and App for Mpox Outbreak Surveillance(https://ieeexplore.ieee.org/document/10355026) which is available on the IEEE Xplore. For the Spring 2024 semester, I am working as a Teaching Assistant for the course CPSC 349-02 Frontend Engineering. Apart from this I also work at the Center of Computational and Applied Mathematics Department of CSUF on Supercomputers as a High Performance Computing (HPC) Student Assistant in the domain of linux, servers, python and more. I also participated in the Social Justice Competition held at CSU Fullerton working on an idea to reduce food wastage problem. In 2023, I attended 3 hackathons - Treehacks at Stanford, LAHacks at UCLA and CalHacks at UCB working on ideas and completing them during the duration of the hackathon.
+
+I am an international student and my parents are retired now. My father worked as a Manager in a private company and my mother is a homemaker.
+
+I have 2+ years of experience in software development and recently interned at Lumen Technologies as software developer. I wish to work as a software developer for the next couple of years and slowly transition towards an software architect role in the longer run as a career path.
+
+This scholarship will help me a lot since as an international student I have taken an education loan. The Purpura internship scholarship will help me pay some part of my fees and reduce the loan amount to some extent. I am glad and proud to say that since I worked as an RA and now TA I am able to manage some of my living expenses with its salary.
+
+
+Ask Krishna Prakash - AWS
+
+Cold Email Yelp
+
+nbaarde@yelp.com
+
+Dear Nicole,
+
+I hope this email finds you well. My name is Aniket Wattamwar, a Computer Science graduate at California State University, Fullerton.
+
+I am glad I have subscribed to the Yelp Career Notification page. Because of that I got this notification for a full stack software engineer remote role currently being open a Yelp.
+
+I went through the Job Description and it mentions skills(Django/Flask/React) which I have worked on in previous organization and on personal projects. You know it's difficult to fit everything in a one page resume, that is the reason I have made this which showcases my work and aligns with Yelp's technical requirements for this role.
+
+I will still be attaching my resume for you reference and I would love to initiate a discussion for this role if you would be available anytime as per your convenience.
+
+Thank you
+
+
+I work 3 on campus jobs as a Teaching Assistant teaching frontend technology to undergraduate students, I also work as Research Assistant and published two papers in ML domain. Apart from this, I am also a junior systems engineer working on University High-Performance Super Computers.
+
+I enjoy learning and exploring new technologies. I attended 4 Hackathons by Stanford called Treehacks and LAHacks by UCLA and CalHacks by UCB.
+My hackathon submissions: https://devpost.com/aniketwattamwar
+
+I have my own YouTube channel - https://www.youtube.com/@aniketwattamwar teaching programming in Python, Full stack, AWS Cloud and Machine learning.
+
+I am also part of the AWS Community Program and was recognised for sharing valuable content on AWS.
+
+Cold Email Adobe
+
+Hello Gabrielle,
+
+I hope this email finds you well. My name is Aniket Wattamwar, a Computer Science graduate at California State University, Fullerton.
+
+I am reaching out to you as I came across a position posted yesterday on the Adobe Career page hiring for 2024 graduate - Software Engineer role. 
+
+Hi [name],
+
+     I've been following your posts on LinkedIn for a while now, and I must say, your insights are always incredibly well-crafted and thought-provoking. Your recent post about [specific topic] was particularly inspiring, and it's awesome to see your dedication to [specific cause or industry].
+    As someone who [briefly describe your background and interests], I truly appreciate the depth of your analysis and your ability to highlight significant shifts in [specific area]. [2-3 sentences in-depth about the topic, e.g., "Your discussion on the growing economic influence of women highlighted critical trends that many overlook….]
+    Currently, I'm a [your job title] at [your company], and I find your work on [related topic] particularly relevant to my interests and career goals.
+     If you're open to it, I'd be delighted to connect over a virtual coffee and discuss your insights further. Please let me know a convenient time for you, and I'll ensure to adjust to your availability.
+
+Best regards, 
+[your name]
+
+From <https://www.linkedin.com/feed/> 
+
+
+Hi Manasi,
+
+I hope you're doing well.
+
+I recently read your paper on arXiv on 'RAGs with KG for Customer Service Q&A'. I found the paper really informative and helpful. I am currently exploring solution on the limitations of RAGs with standard semantic search and hybrid search. Knowledge Graphs is what I saw is getting adopted and came across your paper.
+
+I wish to connect with you. I am a senior developer at Lumen Technologies based in Denver, Colorado.
+
+-Aniket
+
+From <https://www.linkedin.com/in/manasird/> 
+
+
+Hiring Full time Companies Section
+
+Sunday, May 7, 2023
+9:47 AM
+
+50 Companies that are still hiring REMOTE Roles in 2023 🚀🤘🏾
+Amazon announced another wave of layoffs targeting 9,000 employees 😭😩 Amazon to lay off in HR, AWS cloud, Studios, and Prime divisions.
+Is there no end to this? Didn't Survive Layoffs? 😞😕
+
+I have curated a list of companies that are hiring for remote work which might be useful for job seekers, check them and apply👇🏼:
+
+✅ Hopin -  https://hopin.com/careers
+✅ Brex -  https://lnkd.in/g9FEZCKV
+✅ Airtable -  https://lnkd.in/gmgy9htF
+✅ Zapier -  https://zapier.com/jobs/
+✅ Pachyderm -  https://lnkd.in/gif4fa5s
+✅ Figma -  https://lnkd.in/ghjrksb6
+✅ Choco -  https://lnkd.in/gGxwWsr7
+✅ OpenAI -  https://openai.com/jobs/
+✅ Skiff -  https://skiff.org/careers
+✅ Notion -  https://lnkd.in/gPNhuxmq
+✅ HashiCorp -  https://lnkd.in/gJe83G3
+✅ Lobster -  https://lnkd.in/gt-ipvSj
+✅ Docker -  https://lnkd.in/g_gw59Ur
+✅ Outreach -  https://lnkd.in/g5EAF__u
+✅ Discourse -  https://lnkd.in/gKmsUMhP
+✅ Discord -  https://discord.com/jobs
+✅ Element -  https://lnkd.in/ghPzuPnF
+✅ Gong -  https://lnkd.in/gTB-me9J
+✅ Gusto -  https://gusto.com/careers
+✅ Miro -  https://miro.com/careers/
+✅ Tessian -  https://lnkd.in/g8-T_WXh
+✅ D2iQ -  https://lnkd.in/gUdbYK9Q
+✅ Carta -  https://lnkd.in/gUNAyjk5
+✅ Celo -  https://celo.org/careers
+✅ Hootsuite -  https://lnkd.in/gtm9ipsG
+✅ Intellimize -  https://lnkd.in/gZFt-Zxx
+✅ Livongo -  https://lnkd.in/gtR2x-Aq
+✅ Auth0 -  https://auth0.com/careers/
+✅ Mixpanel -  https://lnkd.in/gSyFBeMn
+✅ Netlify -  https://lnkd.in/g2MGB6X9
+✅ Nylas -  https://lnkd.in/gfmcgi_f
+✅ PostHog -  https://lnkd.in/g67Uz6WY
+✅ Rainforest QA -  https://lnkd.in/g274DkfD
+✅ Rippling -  https://lnkd.in/gY8fQJKy
+✅ Roam Research -  https://lnkd.in/gAZRhqvv
+✅ Shift -  https://lnkd.in/gPp-h9g5
+✅ Snyk -  https://lnkd.in/gMmsVmg2
+✅ Sourcegraph -  https://lnkd.in/giVRQfD5
+✅ StepZen -  https://lnkd.in/gwyc5DNk
+✅ Tines -  https://tines.io/careers
+✅ Transcend -  https://lnkd.in/gzYPX2b3
+✅ Tucows -  https://lnkd.in/g9wZWSYB
+✅ Universe -  https://lnkd.in/gSqJT3cS
+✅ Verkada -  https://lnkd.in/gfte-DKT
+✅ Webflow -  https://lnkd.in/gfcYjSHr
+✅ Wistia -  https://lnkd.in/gdixGJMR
+✅ Xapo -  https://lnkd.in/gQaF33WJ
+✅ Xendit -  https://lnkd.in/geXjVa3D
+✅ Zapnito -  https://zapnito.com/jobs
+✅ Zyper -  https://lnkd.in/gDFfZ4e5 this with your network
+Viget
+perpay
+
+Companies:
+Mill - support@mill.com
+Blizzard Entertainment
+Broadcom Inc.
+Edwards Lifesciences Corporation
+Ingram Micro Inc.
+Broadcom Limited
+Western Digital Corporation
+Allergan plc
+Parker Hannifin Corporation
+Taco Bell Corporation
+Kia Motors America
+CoreLogic, Inc.
+St. Joseph Health
+Marvell Technology Group Ltd.
+Vizio Inc.
+Pacific Dental Services
+In-N-Out Burger
+BSH Home Appliances Corporation
+Capital Group Companies
+Masimo Corporation
+First American Financial Corporation
+1. Affirm
+2. Aquent
+3. Axon
+4. BCD Travel
+5. Beacon Hill Staffing Group
+6. Bright HealthCare
+7. Centene Corporation
+8. Citizens Bank
+9. Creative Financial Staffing – CFS
+10. DoorDash
+11. Elevance Health
+12. Hinge Health
+13. Kelly
+14. Kraken
+15. Thermo Fisher Scientific
+
+
+MetroStar:
+
+Debbie Peterson
+Ashley Brush
+Ryan Abott
+Joe early
+Stuart strange 	
+
+Contact Garner Health - profile JD matches alot
+
+• Developed and implemented 2 critical features in the Order Management tool using Python, Kubernetes, Javascript, and MongoDB.
+• Designing a highly efficient automated ticket categorization system leveraging NLP technology.
+• Incident resolution procedures by effectively utilizing AppDynamics and Splunk to monitor and optimize system performance.
+
+Veeva System- msg them
+
+WebFx
+
+• William Craig
+• Karie Shearer
+• Shane Jones
+• Mary Shirey
+• Katie Kelly
+• Patty Price
+• Laura Passmore
+• Heather Thomas
+• Hailey Toth
+• Celeste Osayi
+• Julie Gardner
+
+From <https://jobs.lever.co/webfx/7c15f9e7-6ca5-4188-887e-3b147485c58f/apply?lever-source=Simplify> 
+
+
+
+Emails of campus recruiting companies:
+
+recruiting@ascendanalytics.com  
+
+
+
+• Recruiter
+• Email
+• Phone
+• Shwetang Chikankar
+• shwetang.chikankar@collabera.com
+• 9733817017
+
+From <https://collabera.com/join-us/careers/career-detail/?post=339461&refid=col_linkedin> 
+
+
+SWE virtual career fair:
+
+Abott:
+Chaitali Mistry
+Chindy Ramsey
+Laura St John
+Pooja McCants
+
+Cummins:
+Alma Orraca
+Gayatri Fernandes
+Jesus Maldonnado Reyes
+Sarah Stotts
+
+Honeywell
+Brittany Coleman
+Cheryl Rhodes
+Rose Roseta
+Trupti Anantharaman
+
+BD
+Anna Spieles
+Laura Murphy Rizk
+Mable Farish
+Suzanne stafford
+Laura Strumpf
+
+
+
+
+J&J
+Angelicia Pickens
+Annette Santiago
+Kelly Pepper
+
+
+Universal Creative
+Daniel Kidder
+Erika Arroyo
+
+Accenture
+Adonis Wooten herron
+Daphne Smith
+Erica 
+Jennifer Horrocks
+Kate Lally
+
+
+ Ideas Section
+
+Solar panel- can you do something with it atleast at home
+
+Friday, February 24, 2023
+12:49 PM
+
+YouTube Videos ideas
+
+	• Flask with Celery
+	• FastAPI async
+	• Flask mongoDB
+	• AWS Sagemaker
+	
+	
+
+Track:
+Education:
+
+	• Adaptive learning software:
+	• Teaching History with VR/AR
+	• AR for a particular object - info gain
+	• Duplication of paper/journals etc
+
+Environment:
+	• Food Wastage - inProgress - complete -LAHacks
+Tourism:
+	• Overtourism
+	• Along the way spots - already existing
+	• Know what to skip - sometimes few spots are not worth the time.
+
+Healthcare:
+1. Personalized treatment plans: By analyzing individual patient data, ML algorithms can identify the most effective treatment options for a particular patient. This personalized approach to treatment can improve outcomes and reduce the risk of adverse effects associated with trial and error approaches to treatment.
+2. Improving diagnoses: ML algorithms can help mental health professionals improve the accuracy of their diagnoses by analyzing patient data and identifying patterns that may not be immediately apparent to human clinicians.
+3. Diagnosis Assistance: Using machine learning algorithms to support medical professionals in making more accurate diagnoses by analyzing large amounts of patient data and medical literature.
+4. Generative AI to understand the output of mixing chemicals/creating medicines.
+These types of technology are being presented to help innovators see what technology is in their arsenal. This is in no way a comprehensive list but gives entrepreneurs ideas about what exists and how it has been used to improve patient safety.  
+AI: 
+	• Using AI enhance fall prevention 
+	• Could EKGs Help Doctors Use AI to Detect Pulmonary Embolisms 
+Natural Language Processing:  
+	• Using NLP to categorize diagnostic errors during he pandemic using electronic safety reports 
+Computer Vision 
+	• Improving patient safety with bedside computer vision 
+ML 
+	• Using ML for patient matching 
+	• Mining patient safety data to identify actionable insights 
+Robotics 
+	• Exoskeletons for patients who are at risk for falls 
+	• Exoskeletons used for training 
+	• UV lights that sanitize patient rooms 
+Virtual and augmented reality 
+	• VR training for simulating before touching a patient 
+	• VR/AR can help with designing healthcare facility to improve patient safety 
+	• AR in the operating room to improve safety 
+Wearables and sensors 
+	• Reduce infections using technology to monitor hand hygiene compliance  
+	• Prevent falls using sensors and wearables 
+	• Identify surgical site infections early using sensors to detect changes in wounds 
+Medical devices and diagnostic tools 
+	• Identifying blood clots 
+	• Early detection of pressure ulcers (bed sores) 
+SMS and instant messaging 
+	• Using chatbots for patient safety 
+
+From <https://www.patientsafetytech.com/patient-safety> 
+
+
+
+
+Fun ideas:
+eg) predicting next wordle word and giving wiki scores and letter score
+
+
+
+YouTube Shorts:
+Linux - directly go to a line number in a file
+
+
+
+https://www.snowflake.com/thankyou/snowpark-for-python-streamlit/?utm_source=linkedin&utm_medium=paidsocial&utm_campaign=na-us-en-accl-dev-asgnrsprl90d-webv&utm_content=li-image-evg-ld-snowpark-for-python-streamlit-ondemand&utm_term=linkedinimage&li_fat_id=58c85305-28a4-4e59-9a45-0bdd230f9654
+
+Airport face recog
+Detailed xrays etc
+Creating synthetic data for self driving cars, real world env, healthcare
+
+22nd Oct - 2107 Hours
+23rd Oct - 2101 Hours
+15th Decc - 2006 hours
+
+
+Hack Ideas:
+
+Mail big companies that you usually buy their products but have been recent unsatisfactory, free stuff will come.
+
+
+Books to read:
+
+No rules rules
+Zero to one
+The hard things about hard things
+
+Passive Income Ideas:
+
+Technical book reviewer
+Author a book 
+YouTube
+
+
+MLH:
+
+Ask about
+how to sponsor
+how to be a judge
+Will u sponsor videos if I make on ur product
+Ask rahul nair about 3d printed goodies like rfid
+
+
+I enjoy coming up with new products using different technologies in different domains like
+Education, environment, social cause and more. By participating in this hackathon I wish to develop product that would solve a potential issue in any domain. I hope to connect with different people 
+and network with them for potential ideas and brainstorming.
+This hackathon will help me enhance my skills and put forth my knowledge in solving an issue. My skills are in full stack development and machine learning. I am confident in using these skills and incorporating a working POC(proof of concept) during the hackathon.
+
+I have 2 years of experience in the industry in full stack and machine learning development. I have attended a couple of hackathons. My recent hackathon was at Treehacks at Stanford where our team developed a webapp on exam questions bank preparation from previous exam papers. I also attended a Hackathon conducted by Rakuten where we came up with a full stack health ecommerce product using Rakuten API for local vendor engagement.
+
+
+Watch Section
+
+Saturday, February 25, 2023
+7:41 PM
+
+
+The Queens Gambit
+The elephant whisperers
+Stranger
+Living with yourself
+Little woman
+Extraordinary on Hulu
+Above the shadows movie
+Marie Kondo - suggested by sarah
+The age of adaline
+Tomb raider
+Detachment
+Catch me if you can
+12 years a slave
+Curious case of benjamin button
+ secret life of walter mitty
+Kings of summer
+Dead poet's society
+The pianist
+Beautiful life
+Good will hunting
+Beautiful mind
+Big short
+Ex machina
+The last dance
+Bridge of terabithia
+Tu hai mera Sunday
+Bazaar - netflix
+Detective byomkesh bakshi
+Newton
+Growing up smith
+Truman show
+7 years in tibet
+
+Anime:
+
+Jujutsu Kaisen
+Ghibli stories: whisper of the heart
+A silent voice
+Your lie in April
+Grave of the fireflies
+Anohana
+Moriarity the patriot
+Black lagoon
+Darker than black
+Terror in resonance
+Inuyashiki
+Record of ragnarok
+The daily life of immortal king
+
+
+Hulu:
+abhius9644@gmail.com
+Hulu$456
+
+Rewatch:
+
+Patiala House
+Chakde india
+Swades 
+Silent of the lambs 
+Piku
+Dil toh baccha hai ji
+Bhagam bhag 
+
+
+Leetcode Algo - Feymann Technique Section
+
+Sunday, February 26, 2023
+7:04 PM
+
+
+289. Game of life	Use bit encoding type of solution to save state, like 0->1 then 2, 1->1 will be 3.
+48. Rotate Image	Do swapping and reverse the matrix
+54. Spiral Matrix	Take 4 variables and individual create the spiral matrix
+56. Merge Intervals	Interval problm so make a timeline for better chances of solving problem.
+	Sort and iterate while checking prev end and curr start, if true then change interval else not
+57. Insert Interval	Take min of starts and max of ends to insert
+150. Eval RPN	Take stack and pop elements when expression is found and calculate to push stack val back to stack
+224. Basic Calculator	Take sign, stack, res. Keep track of sign and res in a list. Pop them and multiple sign and add the other value
+2. Add Two Numbers	Take carry, l1val l2val and know how to use total%10 and total//10
+92. Reversed Linked List	Hard to code, but came up with logic.
+	Take a dummy node at start to handle edge cases also. Go till left then reverse till Right and adjust the pointers 
+	after the right to get the final result.
+61. Rotate List	Break the link at the desired node and just attach the remaining to the start of the list
+86. Partition list	Take two list left and right. Smaller than x goes to left and bigger goes to right. Once done just connect left and right to get the final list of the solution
+226. Invert BT	Just swap two elements and then call recursively left and right nodes
+105. Construct BT from preorder and inorder	Preorder tells you root and inorder tell you till which node you have to put the values in left tree. 
+106. Construct BT from inorder and postorder	Similar logic as 105 above. Get the root and pop the elements from the postorder list. But recursively call root.right first since postorder is rRL
+138. Copy LL with random pointer	Do two passes. One pass to make just the nodes with deep copy. Second pass to do the linking wrt to the original LL. Use dict to store old to new
+129. Sum root leaf numbers	Recursively get the number and store as left and right and just return left+right from the inner dfs funciton. The number created as num*10 + root.val
+114. Flatten binary tree	A bit tricky to code the solution. Inner function to reroute pointer and call recursively.
+117. Populating next right pointers II	Do BFS and just connect to next node
+236. Least Common ancestor for two nodes	Do recursive call and just check if l and r are present if yes then return root
+199. Binary right side view	Just do BFS and add the last element to queue
+173. Binary Search Tree iterator	Use stack and perform in order. Pop elements and traverse towards the left nodes for inorder.
+98. Validate BST	Perform inorder and check if the sorted set list is equal to the non sorted list  if yes its BST else not
+207. Course Schedule	Do DFS. This is graph problem where check for a cycle in the graph if found then return False.
+108. Array to BST	Take midpoint and do recursion by making nodes. Since the array is sorted then the BST would be constructed directly
+127. Word Ladder	Difficult to problem. Graph with BFS. Make graph using defaultdict(list). Trick to create the correct graph. Eg. H*t = [hot, hit, …] words are stored like this.
+Saw neetcode solution
+79. Word Search	Do 4 calls with OR and take a visited set array to store i,j and remove it after recursive calls.
+23. Merge K Sorted Lists	Put all LL values in an array, sort it and then create nodes in another loop
+53. Maximum Subarray	Kadane algorithm. Keep adding numbers if negative then reset to 0. take max of currMax with globalMax and that is the answer
+918. Max Sum Circular Subarray	
+373. K smallest pairs	Use heap and store the next 2 pairs. Once you pop from the heap it will be minimum sum indexes and append it to ans.
+502. IPO	Make capital profit vector and use max heap to store max profit. So every time u pop u get max proft and add to w to get final ans
+198. House Robber 	Create a 1d DP array. Choose the current and two places behind money or just the prev one whichever is greater and return the last dp value
+120. Triangle	Using DP. Start from bottom and just add minimum of upper value and upper right value. Ans will be at 0,0
+64. Minimum Path Sum	Use 2d DP and add previous minimum value with current grid value
+63. Unique Paths II	Use 2d DP with obstacle changing to 0 when see it and others changing/adding to the current value
+97. Interleaving String	Use 2d dp. Rows cols is s1 and s2 and compare each position with s3 value. Tricky question to visulize
+188. Buy and Sell Stock IV	2d dp with transactions as rows and prices as columns and you calculate the max profit for all previous days till ystrday for 1 transaction and the second transction will be ystrday buy and today sell, whichever is maximum. Algorihtms made easy solution was easy to understand
+399. Evaluate Division	Use dfs or bfs createa defauldict(dict) to store the nodes. Basically you need to make a graph which goes a-> b -> and has value and then the inverse value of the reverse path. Hard to code.
+4. Median of two sorted arrays	Use Two pointers or binary search to solve.
+805. Split array with same avg	Calculate total sum and avg, then look for a  subset of numbers whose avg is close to half of the total avg. If found return True since the second subset avg will be equal. Uses a possible sets dict/set to find all sets and then look for avg half to the total.
+1895. Largest Magic Square	
+287. Find duplicate number	To adhere to the conditions and solving the problem --> Use Floyds cycle detection algorithm i.e slow-fast pointer approach
+547. Number of Provinces	Do dfs. You just have to check if from any city i  how many j are connected with i,j as 1. Doable problem in interview if you understand the question.
+205. Isomorphic Strings	Create two dict and match the values. If same then true else false.
+179. Largest Number	Basically a sorting problem, but need to write your own sorting logic. Convert to strings and join current number with next and check which is larger. If larger then swap else pass. Do this for all numbers. TC is O(n^2)
+135. Candy	
+221. Maximal Square	Using DP. Check each cell as the end of a square and take the minimum in up, left, and backward diagonal.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sliding Window
+
+def sliding_window(s):
+    n = len(s)
+    # Initialize two pointers for the start and end of the window
+    left, right = 0, 0
+    # Initialize variables for the current window and the maximum value found so far
+    curr_window, max_window = 0, 0
+
+    # Loop through the string using the right pointer as the loop variable
+    while right < n:
+        # Expand the window to the right by moving the right pointer
+        curr_window += s[right]
+
+        # Check if the current window is valid, if so, update the maximum value found so far
+        while # condition for an invalid window:
+            # Shrink the window from the left by moving the left pointer
+            curr_window -= s[left]
+            left += 1
+
+        # Update the maximum value found so far
+        max_window = max(max_window, curr_window)
+
+        # Move the right pointer to expand the window further
+        right += 1
+
+    return max_window
+
+Breadth First Search
+
+from collections import deque
+
+def bfs(graph, start):
+    # Initialize a queue and a set to keep track of visited nodes
+    queue = deque([start])
+    visited = set([start])
+ 
+    while queue:
+        # Get the next node from the queue
+        node = queue.popleft()
+
+        # Process the current node
+        # ...
+
+        # Add the unvisited neighbors to the queue and mark them as visited
+        for neighbor in graph[node]:
+            if neighbor not in visited:
+                queue.append(neighbor)
+                visited.add(neighbor)
+
+
+In place problems:
+
+take another pointer like i
+2 pointer
+
+Depth First Search
+
+def dfs(graph, start, visited=set()):
+    # Process the current node
+    # ...
+
+    # Mark the current node as visited
+    visited.add(start)
+
+    # Recursively visit the unvisited neighbors of the current node
+    for neighbor in graph[start]:
+        if neighbor not in visited:
+            dfs(graph, neighbor, visited)
+
+IT CSUF CCAM - HPC Section
+
+Tuesday, May 9, 2023
+3:27 PM
+
+Links:
+
+https://stackoverflow.com/questions/67112227/python-how-to-run-simple-mpi-code-on-multiple-nodes
+
+MPI stuff:
+https://researchcomputing.princeton.edu/support/knowledge-base/mpi4py
+
+MPI: 
+send - data to nodes
+Recv - receive it from nodes
+broadcast - send data by master to all the nodes
+scatter- scatter data to different nodes
+gather - collect data from different nodes and store it as one
+
+/tier2/data/BehsetaGroup/zz-awattamwar/mod
+
+Load python first to install libraries with pip
+
+module load py3/3.10.0-gcc-4.8.5
+module load lib/ompi2/2.1.6-ucx-1.11.2-gcc-4.8.5
+pip install --upgrade pip
+
+
+export MPICC=$(which mpicc)
+echo $MPICC
+pip install mpi4py --no-cache-dir
+python3 -c "import mpi4py"
+
+sbatch  --job-name=mpi4py-collective-test   --output=out-PART.OUT.txt --error=out-PART.ERR.txt  --partition="p_nsm_compute"  --wrap="runMPI_test.py.slurm"
+
+	module load chem/orca/5.0.3-gcc-4.8.5-openmpi-4.1.1-ucx-1.11.1
+	module load py3/3.10.11-gcc-4.8.5
+
+#!/bin/bash
+#SBATCH --job-name=mpi4py-test   # create a name for your job
+#SBATCH --nodes=4                # node count
+#SBATCH --ntasks=4               # total number of tasks
+#SBATCH --cpus-per-task=1        # cpu-cores per task
+#SBATCH --mem-per-cpu=1G         # memory per cpu-core
+#SBATCH --time=00:01:00          # total run time limit (HH:MM:SS)
+
+#SBATCH --partition="p_nsm_compute"
+#BATCH --open-mode=truncate
+#SBATCH --output=Hello-test.output
+#SBATCH --error=Hello-test.error
+
+
+module purge
+
+module load chem/orca/5.0.3-gcc-4.8.5-openmpi-4.1.1-ucx-1.11.1
+module load py3/3.10.11-gcc-4.8.5
+
+
+export MPICC=$(which mpicc)
+echo $MPICC
+
+
+RUNPATH=/tier2/data/BehsetaGroup/zz-awattamwar/mod
+cd $RUNPATH
+source /tier2/data/BehsetaGroup/zz-awattamwar/appenv/bin/activate
+
+python3 -c "import mpi4py"
+
+#SBATCH --nodelist=compute-1-5,compute-1-2,compute-1-3,compute-1-4
+
+srun python3 mpitest.py
+
+sbatch  --job-name="AniketTest"   --output=gpaw2.%j.%N.out    --error=gpaw2.%j.N.err  \
+--partition=p_nsm_compute   --qos=q_nsm_faculty_w   --nodes=2     \
+   --cpus-per-task=1   --mem-per-cpu=70G   \
+--time=4-00:00:00   --export=ALL --wrap="mpirun $SLURM_NTASKS gpaw python optimise.py"
+
+/home/zz-awattamwar/.conda/envs/testenv
+
+/home/zz-awattamwar/mpiparallel
+
+#!/bin/bash
+#SBATCH --job=Si.Kpt
+#SBATCH --output=gpaw.%j.%N.out
+#SBATCH --error=gpaw.%j.%N.err
+#SBATCH --partition=p_nsm_compute
+#SBATCH --qos=q_nsm_faculty_w
+####SBATCH --nodes=2
+####SBATCH --ntasks=80
+####SBATCH --ntasks-per-node=40
+####SBATCH --ntasks-per-node=30
+
+#SBATCH --cpus-per-task=1
+#SBATCH --mem-per-cpu=4040M
+#SBATCH --time=4-00:00:00
+#SBATCH --export=ALL
+
+
+
+module purge
+module load py3/3.10.11-gcc-4.8.5
+module load chem/libxc/5.1.7-gcc-4.8.5
+module load lib/ompi2/2.1.6-ucx-1.11.2-gcc-4.8.5
+module load lib/ucx/1.11.2-gcc-4.8.5
+
+export  MODROOT=/tier2/data/BehsetaGroup/HomerTest/pygpaw-env/gpaw-venv
+export  PATH=$MODROOT/bin:/tier2/data/BehsetaGroup/HomerTest/pygpaw-env/gpaw-venv/lib/python3.10/site-packages/pylibxc-6.2.2-py3.10-linux-x86_64.egg/pylibxc:$PATH
+export  LD_LIBRARY_PATH=$MODROOT/lib:$LD_LIBRARY_PATH
+export  INCLUDE=$MODROOT/include
+export  GPAW_SETUP_PATH=$MODROOT/gpaw-setups-0.9.20000
+
+export C_INCLUDE_PATH=$MODROOT/include
+export LIBRARY_PATH=/tier2/data/BehsetaGroup/HomerTest/pygpaw-env/gpaw-venv/lib/
+export LD_LIBRARY_PATH=/tier2/data/BehsetaGroup/HomerTest/pygpaw-env/gpaw-venv/lib/
+
+export PYTHONPATH=/bin:/tier2/data/BehsetaGroup/HomerTest/pygpaw-env/gpaw-venv/lib/python3.10/site-packages/pylibxc-6.2.2-py3.10-linux-x86_64.egg:$PYTHONPATH
+
+
+/tier2/data/BehsetaGroup/HomerTest/pygpaw-env/gpaw-venv/bin/gpaw /tier2/data/BehsetaGroup/HomerTest/pygpaw-env/gpaw-venv/bin/python  optimise.py
+
+export C_INCLUDE_PATH=$XC/include   
+export LIBRARY_PATH=/tier2/data/BehsetaGroup/HomerTest/pygpaw-env/gpaw-venv/lib/
+export LD_LIBRARY_PATH=/tier2/data/BehsetaGroup/HomerTest/pygpaw-env/gpaw-venv/lib/
+
+ /tier2/data/BehsetaGroup/HomerTest/pygpaw-env/2node2
+
+source   /tier2/data/BehsetaGroup/HomerTest/pygpaw-env/gpaw-venv/bin/activate
+source <your_venv_name>/bin/activate
+
+sbatch pygpaw-venv.sb.homer6
+
+Loading py3/3.10.11-gcc-4.8.5 Loading requirement: lib/openssl/1.1.1m-gcc-4.8.5 Loading lib/ompi2/2.1.6-ucx-1.11.2-gcc-4.8.5 Loading requirement: lib/ucx/1.11.2-gcc-4.8.5 (gpaw-venv)
+ [zz-awattamwar@turingh2 2node2]$ 
+(gpaw-venv) [zz-awattamwar@turingh2 2node2]$ cat gpaw.19357.compute-2-19.err Traceback (most recent call last): File "/tier2/data/BehsetaGroup/HomerTest/pygpaw-env/gpaw-venv/bin/gpaw", line 5, in <module> from gpaw.cli.main import main File "/tier2/data/BehsetaGroup/HomerTest/pygpaw-env/gpaw-venv/lib/python3.10/site-packages/gpaw/__init__.py", line 48, in <module> from gpaw.broadcast_imports import broadcast_imports # noqa File "/tier2/data/BehsetaGroup/HomerTest/pygpaw-env/gpaw-venv/lib/python3.10/site-packages/gpaw/broadcast_imports.py", line 27, in <module> import _gpaw ImportError: libxc.so.1: cannot open shared object file: No such file or directory
+
+From <https://chat.openai.com/> 
+
+export C_INCLUDE_PATH=/my/path/to/libxc/5.2.0/install/include
+export LIBRARY_PATH=/my/path/to/libxc/5.2.0/install/lib
+export LD_LIBRARY_PATH=/my/path/to/libxc/5.2.0/install/lib
+
+/tier2/data/BehsetaGroup/HomerTest/pygpaw-env
+source   /tier2/data/BehsetaGroup/HomerTest/pygpaw-env/gpaw-venv/bin/activate
+module load py3/3.10.11-gcc-4.8.5
+
+/tier2/data/GrovesGroup/testpyenv/prj.work/testvenv/bin/activate
+
+/usr/lib64/pkgconfig/libxc.pc
+/usr/share/doc/libxc-2.1.2
+/usr/share/doc/libxc-2.1.2/AUTHORS
+/usr/share/doc/libxc-2.1.2/COPYING
+/usr/share/doc/libxc-2.1.2/ChangeLog
+/usr/share/doc/libxc-2.1.2/NEWS
+/usr/share/doc/libxc-2.1.2/README
+/usr/share/doc/libxc-2.1.2/TODO
+
+
+INSTALLATION
+============
+
+To install the library, just use the standard procedure:
+
+./configure --prefix=/usr/lib64
+make
+make check
+make install
+
+gcc -o test test.c -I/tier2/data/BehsetaGroup/HomerTest/pygpaw-env/2node2/libxc-4.3.4/install/include -L/tier2/data/BehsetaGroup/HomerTest/pygpaw-env/2node2/libxc-4.3.4/install/include/install/lib -lxc
+
+
+_______________________________________
+
+
+wget -O libxc-4.3.4.tar.gz http://www.tddft.org/programs/libxc/down.php?file=4.3.4/libxc-4.3.4.tar.gz tar xfp libxc-4.3.4.tar.gz 
+cd libxc-4.3.4 
+module load gcc
+export CFLAGS="-fPIC"
+export CXXFLAGS="-fPIC"
+export FCFLAGS="-fPIC" 
+./configure --prefix=$PWD/install 
+make 
+make install
+
+chem/libxc/5.1.7-gcc-4.8.5
+
+https://education.molssi.org/parallel-programming/03-distributed-examples-mpi4py.html
+
+https://sulis-hpc.github.io/appnotes/tensorflow.html
+
+nvidia-smi -l 2
+
+#SBATCH --qos=q_gpu_student_w
+
+cd /tier2/data/GrovesGroup/deepmd-kit-2.2.4-cuda11.6_gpu/testgpu/z1DeePMD-kit-FastLearn/01.train
+
+/tier2/data/GrovesGroup/ofLineDeepmd/zzdeepmd/zdeepmd/bin/conda
+
+DEEPMD INFO    start training at lr 1.00e-03 (== 1.00e-03), decay_step 11, decay_rate 0.893302,
+ final lr will be 3.89e-08
+WARNING:tensorflow:From /tier2/data/GrovesGroup/ofLineDeepmd/zzdeepmd/zdeepmd/lib/python3.10/si
+te-packages/deepmd/train/trainer.py:1189: py_func (from tensorflow.python.ops.script_ops) is de
+precated and will be removed in a future version.
+Instructions for updating:
+tf.py_func is deprecated in TF V2. Instead, there are two
+    options available in V2.
+    - tf.py_function takes a python function which manipulates tf eager
+    tensors instead of numpy arrays. It's easy to convert a tf eager tensor to
+    an ndarray (just call tensor.numpy()) but having access to eager tensors
+    means `tf.py_function`s can use accelerators such as GPUs as well as
+    being differentiable using a gradient tape.
+    - tf.numpy_function maintains the semantics of the deprecated tf.py_func
+    (it is not differentiable, and manipulates numpy arrays). It drops the
+    stateful argument making all functions stateful.
+
+PARTITION                 AVAIL  TIMELIMIT  NODES  STATE NODELIST
+p_nsm_compute                up 4-04:00:00      2   idle compute-2-[19-20]
+p_groves_compute_priority    up 4-04:00:00      2   idle compute-2-[19-20]
+p_groves_compute_guest       up 4-04:00:00      2   idle compute-2-[19-20]
+p_nsm_gpu                    up 4-04:00:00      2   idle gpu-0-[3-4]
+
+https://www.iceflatline.com/2009/08/how-to-install-and-configure-mrtg-on-ubuntu-server/
+
+Documentation links:
+Basic orca test file run:- https://www.orcasoftware.de/tutorials_orca/first_steps/first_calc.html
+Parallel running:- https://www.orcasoftware.de/tutorials_orca/first_steps/parallel.html
+Setting up library PATHS:-   https://www.orcasoftware.de/tutorials_orca/first_steps/trouble_install.html#path-variable
+
+location: cd /home/zz-awattamwar
+
+module av | grep ompi
+module av | grep orca
+
+module load lib/ompi4/4.1.1-ucx-1.11.2-gcc-8.5.0
+module load chem/orca/5.0.1-gcc-4.8.5-openmpi-4.1.1-ucx-1.11.1
+
+## water.inp is the basic input file. Run command below. Output will be in water.out and other files will be created as well.
+orca water.inp
+
+
+## water_pal.inp is input file for parallel running. Run command below
+/share/apps/chem/orca-5.0.1-gcc-4.8.5-openmpi-4.1.1-ucx-1.11.1/orca water_pal.inp
+
+
+
+
+
+## Setting paths commands. Already set into bash_profile
+echo 'export PATH=/lib/ompi4/4.1.1-ucx-1.11.2-gcc-8.5.0/bin:$PATH; export LD_LIBRARY_PATH=/lib/ompi4/4.1.1-ucx-1.11.2-gcc-8.5.0/lib:$LD_LIBRARY_PATH'  >> ~/.bash_profile
+source ~/.bash_profile
+
+CPSC 535 Section
+
+Friday, September 8, 2023
+1:07 PM
+
+TA Courses
+
+120L - intro to programming
+121L - OOPs Lab
+131 - Data Structures
+223P - Python Programming
+
+335 - Algorithm Eng
+375 - intro to data science n big data
+301 - Programming Lab Practicum
+CPSC 332 Files Structures and Database Systems
+CPSC 335 Algo Engg
+CPSC 349 - Frontend Engg
+CPSC 351 - OS
+CPSC 362 - Foundations of Software Engg
+
+462 - software design
+463 - software testing
+464 - software architecture
+466 - software process
+490 - undergraduate seminar in CS
+CPSC 411A - Mobile Device Application - Android
+CPSC 449 - Web backend engg
+
+
+
+Gale Shapley Algo - video done - published
+Brent's Algorithm
+Ruzo Tompa Algorithm
+Push Relabel Algorithm
+Rabin Karp algorithm - video done
+Floyd Warshall Algorithm
+Min heap for Dijkstras algo
+KMP 
+Horspools algo
+Bron Kerbosch Algorithm
+Harrisberg algorithm
+Runge–Kutta technique
+
+20nguyened@csu.fullerton.edu
+
+sampson_akwa@yahoo.co.uk
+
+Deployment charges Streamlit
+add others to 
+powerBI PRO license
+
+Sponsors - YT Section
+
+Wednesday, October 25, 2023
+1:39 PM
+
+Fetch.ai
+
+Hi Ed,
+
+It was really nice meeting you at the LAHacks and fun debugging the dependency issues of reflex and fetch.ai.
+Just FYI, the workaround was don’t write any fetch.ai code in reflex code when performing 'reflex run' then the dependency error won’t occur ;)
+
+I am reaching out to continue our discussion on making videos on my YouTube channel - Aniket Wattamwar. I have over 1.1k subscribers with overall 200k+ views and growing. My content is on full stack, react, fastAPI, ML, Python, AWS, Data Science and more.
+
+It would be really interesting to make real life use cases videos using fetch.ai. If fetch.ai is open to sponsor a video or a series of videos, I believe it would be helpful for everyone.
+
+I would like to discuss more on a call if that's possible. I am in Pacific(PDT) Time. Do let me know your available time this week or next week as per your convenience.
+
+Regards,
+Aniket
+
+
+
+
+Streamlit
+
+Hi Team,
+
+Hope you are doing well. I am a senior software developer here in California. 
+
+I absolutely love your product. Congratulations on joining Snowflake. I have been following you guys for a long time(3 years) and have seen Streamlit add features and grow exponentially.
+
+I am reaching out to you again for a sponsorship proposal. I have made videos on my YouTube channel - Aniket Wattamwar and was planning to make more. If you guys are interested in sponsoring a video or a series of videos, I believe it would very beneficial for everyone.
+
+I would like to discuss more on a call if that's possible. It would really help if you direct me to the right person as well.
+
+
+Aniket
+
+Hi Elliot,
+I am a software developer and a YouTuber. Reaching out to you if HyperScience would like to be a sponsor of my videos. I would be happy to brief my audience about HyperScience in my videos.
+My work: https://www.youtube.com/@aniketwattamwar
+
+
+Aniket
+
+Reflex
+
+
+Hey Nikhil,
+
+It was great talking to you at LAHacks and absolutely love your product.  Reaching out to initiate our discussion to create content on reflex. 
+This is my YouTube channel -  Aniket Wattamwar and my videos are on programming with python, aws, fullstack, fastAPI, react, Django and more.
+
+It would be really great if Reflex can sponsor a video or a series of videos, I believe it would be beneficial for everyone.
+
+I would like to discuss more on a call if that’s possible. I am in the Pacific(PDT) time. Do let me know your availability and we can discuss further.
+
+Aniket  
+
+3d Printing Section
+
+Friday, October 27, 2023
+11:40 AM
+
+
+2525
+
+
+
+Dragon Ball Keychain
+Toothepaste squeezer
+book page holder
+can holder
+Finger Shield
+tic tac toe
+quoridor
+Buttons
+Flying propeller
+Atm card holder
+Mecrricco catch - page turing finger tips
+Bath glass shower hook
+Anytime tongs
+Foldable crate
+Snorlax
+
+Packaging design
