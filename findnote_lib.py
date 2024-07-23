@@ -12,19 +12,19 @@ from langchain.memory import ConversationBufferWindowMemory
 from langchain.vectorstores import FAISS
 from langchain.prompts import PromptTemplate
 from langchain.chains import RetrievalQA
-
+import keys as key
 import google.generativeai as genai
 import google.generativeai as palm
 
-palm.configure(api_key='AIzaSyApFClW1eAeWob3reV89-3EqQFUjKN6GDE')
+palm.configure(api_key=key.api_key)
 
 models = [m for m in palm.list_models() if 'generateText' in m.supported_generation_methods]
 model = models[0].name
 print(model)
 
-embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001",google_api_key="AIzaSyApFClW1eAeWob3reV89-3EqQFUjKN6GDE")
+embeddings = GoogleGenerativeAIEmbeddings(model="models/embedding-001",google_api_key=key.api_key)
 
-api_key = "AIzaSyApFClW1eAeWob3reV89-3EqQFUjKN6GDE"
+api_key = key.api_key
 
 
 def get_index():
@@ -52,7 +52,7 @@ def get_index():
 
 
 def get_llm():
-    llm = GoogleGenerativeAI(model="models/text-bison-001", google_api_key= "AIzaSyApFClW1eAeWob3reV89-3EqQFUjKN6GDE")
+    llm = GoogleGenerativeAI(model="models/text-bison-001", google_api_key= key.api_key)
 
     return llm
 
